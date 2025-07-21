@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Dónde ocurre la fertilización?",
+    "options": ["Útero", "Ovario", "Cuello uterino", "Ampolla de la trompa de Falopio"],
+    "answer": 3
+  },
+  {
+    "question": "¿Qué forma el blastocisto?",
+    "options": ["Mórula", "Embrioblasto y trofoblasto", "Saco vitelino", "Cordón umbilical"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuándo comienza la implantación?",
+    "options": ["Día 1", "Día 6-7", "Día 12", "Semana 3"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué es la gastrulación?",
+    "options": ["Formación del corazón", "Formación de las tres capas germinativas", "Migración del mesodermo", "Inicio de la organogénesis"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es la primera estructura del sistema nervioso?",
+    "options": ["Vesículas encefálicas", "Cerebro", "Placa neural", "Médula espinal"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué hormona mantiene el embarazo temprano?",
+    "options": ["LH", "Estrógeno", "Gonadotropina coriónica humana (hCG)", "Prolactina"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué estructura se forma durante la neurulación y da origen al SNC?",
+    "options": ["Notocorda", "Tubo neural", "Cresta neural", "Ectodermo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuándo comienza a latir el corazón del embrión?",
+    "options": ["Semana 8", "Semana 4", "Día 2", "Semana 1"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué estructuras se desarrollan a partir de los brotes de las extremidades?",
+    "options": ["Corazón y pulmones", "Brazos y piernas", "Médula espinal", "Riñones"],
+    "answer": 1
+  },
+  {
+    "question": "El cierre incorrecto del tubo neural puede causar...",
+    "options": ["Espina bífida", "Microcefalia", "Onfalocele", "Criptorquidia"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué estructura da origen al sistema digestivo?",
+    "options": ["Ectodermo", "Endodermo", "Mesodermo", "Notocorda"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué capa germinativa origina el sistema muscular?",
+    "options": ["Ectodermo", "Endodermo", "Mesodermo", "Trofoblasto"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué forma la notocorda?",
+    "options": ["Médula espinal", "Columna vertebral", "Eje primitivo y señalización para el desarrollo neural", "Sistema circulatorio"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué estructura conecta al embrión con la placenta?",
+    "options": ["Amnios", "Corion", "Cordón umbilical", "Alantoides"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál de estas estructuras se forma primero?",
+    "options": ["Tubo neural", "Línea primitiva", "Corazón", "Extremidades"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué se forma a partir del ectodermo?",
+    "options": ["Músculos", "Sistema nervioso y piel", "Hígado", "Riñones"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuándo ocurre la organogénesis?",
+    "options": ["Semana 1", "Semana 2", "Semanas 3 a 8", "Semana 10"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué forma el saco vitelino primario?",
+    "options": ["Amnios", "Hipoblasto", "Corion", "Ectodermo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es la función del líquido amniótico?",
+    "options": ["Alimentar al embrión", "Transportar hormonas", "Proteger y amortiguar al embrión", "Oxigenar la sangre"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué se forma a partir del mesodermo paraxial?",
+    "options": ["Tracto digestivo", "Somitos (huesos, músculos y dermis)", "Sistema urinario", "Placenta"],
+    "answer": 1
+  }
+]

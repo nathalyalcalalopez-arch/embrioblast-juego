@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Embryoblast</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="game-container">
+    <div id="start-screen" class="screen active">
+      <h1>Embryoblast</h1>
+      <p>
+        Responde las preguntas correctamente para avanzar en el desarrollo.<br>
+        Si fallas una, ¡regresas al inicio!<br>
+        <strong>Buena suerte en tu camino por la vida.</strong>
+      </p>
+      <button id="start-btn">Comenzar</button>
+    </div>
+    <div id="question-screen" class="screen">
+      <img id="stage-image" src="assets/etapa1.png" alt="Progreso" />
+      <div id="progress"></div>
+      <div id="question"></div>
+      <div id="options"></div>
+    </div>
+    <div id="end-screen" class="screen">
+      <h2>¡Bien hecho!</h2>
+      <p>Has completado Embryoblast.<br>¡Felicidades por tu increíble viaje!</p>
+      <button id="restart-btn">Jugar de nuevo</button>
+    </div>
+  </div>
+  <audio id="sound-correct" src="assets/correct.mp3"></audio>
+  <audio id="sound-wrong" src="assets/wrong.mp3"></audio>
+  <script src="game.js"></script>
+</body>
+</html>
