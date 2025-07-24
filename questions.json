@@ -119,7 +119,6 @@
     "options": ["Macrófago", "Mastocito", "Fibroblasto", "Célula plasmática"],
     "answer":2 
   },
-  ,
   {
     "question": "¿Qué tipo de tejido epitelial se encuentra en los alvéolos pulmonares?",
     "options": ["Epitelio cúbico simple", "Epitelio cilíndrico simple", "Epitelio plano simple", "Epitelio estratificado"],
@@ -135,7 +134,7 @@
     "options": ["Tejido conectivo", "Tejido muscular", "Tejido epitelial", "Tejido nervioso"],
     "answer": 3
   },
-{
+  {
     "question": "¿Qué tipo de tejido epitelial se encuentra en la epidermis de la piel?",
     "options": ["Epitelio cúbico simple", "Epitelio cilíndrico simple", "Epitelio plano estratificado", "Epitelio transicional"],
     "answer": 2
