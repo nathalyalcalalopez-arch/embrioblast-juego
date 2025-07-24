@@ -98,5 +98,55 @@
     "question": "¿Qué se forma a partir del mesodermo paraxial?",
     "options": ["Tracto digestivo", "Somitos (huesos, músculos y dermis)", "Sistema urinario", "Placenta"],
     "answer": 1
-  }
+  },
+  {
+    "question": "¿Qué tipo de epitelio reviste el interstino delgado en el embrión y en el adulto?",
+    "options": ["Epitelio cúbico simple", "Epitelio plano estratificado", "Epitelio transicional", "Epitelio cilíndrico simple con celilas caliciformes"],
+    "answer": 3  
+  },
+  {
+    "question": "¿Qué tejido conecta y sostiene a otros tejidos, y deriva del mesénquima embrionario?",
+    "options": ["Epitelial", "Conectivo", "Muscular", "Nervioso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de tejido forma los vasos sanguíneos?",
+    "options":["Tejido conjuntivo y endotelio plano simple", "Muscular estriado", "Epitelio seudoestratificado"],
+    "answer": 0 
+  },
+  {
+    "question": "¿Qué célula es responsable de la producción de fibras colágenas en el tejido conectivo?",
+    "options": ["Macrófago", "Mastocito", "Fibroblasto", "Célula plasmática"],
+    "answer":2 
+  },
+  ,
+  {
+    "question": "¿Qué tipo de tejido epitelial se encuentra en los alvéolos pulmonares?",
+    "options": ["Epitelio cúbico simple", "Epitelio cilíndrico simple", "Epitelio plano simple", "Epitelio estratificado"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué tipo de tejido muscular es involuntario y estriado?",
+    "options": ["Músculo esquelético", "Músculo cardíaco", "Músculo liso", "Músculo estriado"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de tejido nervioso está formado por neuronas y células gliales?",
+    "options": ["Tejido conectivo", "Tejido muscular", "Tejido epitelial", "Tejido nervioso"],
+    "answer": 3
+  },
+{
+    "question": "¿Qué tipo de tejido epitelial se encuentra en la epidermis de la piel?",
+    "options": ["Epitelio cúbico simple", "Epitelio cilíndrico simple", "Epitelio plano estratificado", "Epitelio transicional"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué tipo de tejido conectivo tiene una matriz líquida y células sanguíneas?",
+    "options": ["Tejido óseo", "Tejido adiposo", "Tejido cartilaginoso", "Tejido sanguíneo"],
+    "answer": 3
+  },
+  {"question": "¿Qué tipo de tejido forma la gelatina de Warton en el cordón umbilical?",
+    "options": ["Tejido conectivo laxo", "Tejido conectivo mucoso", "Tejido adiposo", "Tejido cartilaginoso"],
+    "answer": 1
+}
 ]
