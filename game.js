@@ -5,7 +5,8 @@ const stages = [
   "assets/etapa1.png", // Espermatozoide
   "assets/etapa2.png", // Mórula
   "assets/etapa3.png", // Embrión
-  "assets/etapa4.png"  // Bebé
+  "assets/etapa4.png", // Bebé
+  "assets/etapa5.png"  // Niño
 ];
 const stageLabels = [
   "Espermatozoide", "Mórula", "Embrión", "Bebé"
