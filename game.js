@@ -9,7 +9,7 @@ const stages = [
   "assets/etapa5.png"  // Niño
 ];
 const stageLabels = [
-  "Espermatozoide", "Mórula", "Embrión", "Bebé"
+  "Espermatozoide", "Mórula", "Embrión", "Bebé", "Niño"
 ];
 
 // Cargar preguntas
